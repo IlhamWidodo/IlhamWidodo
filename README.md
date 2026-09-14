@@ -23,7 +23,7 @@ const ilhamDo = {
 
 <img src="./Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
-[Website](http://ddroid.dev/), [LinkedIn](https://www.linkedin.com/in/ddroid/)
+[Website](http://ddroid.dev/), [LinkedIn](https://www.linkedin.com/in/ilham-widodo-4158b2356/)
 <details>
 
 <summary>ASCII Art</summary>
